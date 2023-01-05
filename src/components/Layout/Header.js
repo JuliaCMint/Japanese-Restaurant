@@ -6,7 +6,7 @@ const Header = (props) => {
   return (
     <React.Fragment>
       <header className={styles.header}>
-        <h1>Kawaii Sushi</h1>
+        <h1>KAWAII SUSHI</h1>
         <button>Cart</button>
       </header>
       <div className={styles["main-image"]}>
