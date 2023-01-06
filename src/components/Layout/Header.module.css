@@ -1,6 +1,6 @@
 .header {
   position: fixed;
-  background: rgb(213, 136, 59);
+  background: rgb(220, 98, 50);
   width: 100%;
   height: 5rem;
   display: flex;
@@ -18,8 +18,8 @@
 }
 
 .main-image img {
-  width: 120%;
-  height: 100%;
+  width: 100%;
+  height: 150%;
   object-fit: cover;
-  transform: rotateZ(-15deg) translateY(-3rem) translateX(3rem);
+  transform: rotateZ(-30deg) translateY(-3rem) translateX(3rem);
 }
