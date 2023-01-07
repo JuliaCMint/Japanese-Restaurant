@@ -1,0 +1,24 @@
+.form {
+  text-align: right;
+}
+
+.form h3 {
+  font-weight: bold;
+}
+
+.button {
+  font: inherit;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0.8rem 2rem;
+  color: white;
+  background-color: rgb(103, 159, 19);
+  border-radius: 50px;
+  border: none;
+  width: 9rem;
+}
+
+.button:hover,
+.button:active {
+  background-color: rgb(220, 98, 50, 0.7);
+}
