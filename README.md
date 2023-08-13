@@ -23,7 +23,8 @@ https://japanese-restaurant-website.netlify.app/
 
 #### PREVIEW
 
-![Japanese-Restaurant ](https://github.com/JuliaCMint/Japanese-Restaurant/assets/105377899/9a8c5653-3b04-41c9-a801-ace9683c9ec0)
-![Screenshot-Japanese-Restaurant Cart](https://github.com/JuliaCMint/Japanese-Restaurant/assets/105377899/29d91357-5920-4674-a1f2-8829bcc6170d)
+![KawaiiSushiMain](https://github.com/JuliaCMint/Japanese-Restaurant/assets/105377899/d5aa159b-e0b4-42cc-84a4-829a47cee968)
+
+![KawaiiSushiCart](https://github.com/JuliaCMint/Japanese-Restaurant/assets/105377899/1cda8615-60cd-4592-b704-2da7172302df)
 
 
